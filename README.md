@@ -1,9 +1,8 @@
 <h1>👋 Hi, I am Shvan!</h1>
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Sh89hkm&color=blue" alt="Profile Views"/>
-  
+  <img src="https://komarev.com/ghpvc/?username=Sh89hkm&color=blue" alt="Profile Views" width="110" height="28"/> &nbsp;
   <a href="https://www.linkedin.com/in/sh89hkm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="110" height="28">
   </a>
 </p>
 
